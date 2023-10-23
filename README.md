@@ -1,6 +1,6 @@
 # Develop Geospatial Workflows and Custom Tools with GRASS GIS
 
-To run online use: [WholeTale]([url](https://dashboard.wholetale.org/run/6535e4c6c67faf246f3aa799))
+To run online use: [WholeTale](https://dashboard.wholetale.org/run/6535e4c6c67faf246f3aa799)
 
 ![GRASS GIS logo](grass_logo.png "GRASS GIS")
 
