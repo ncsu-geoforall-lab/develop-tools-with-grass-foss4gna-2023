@@ -42,6 +42,3 @@ mkdir -p grassdata \
   && unzip -qq nc_spm_08_grass7.zip \
   && mv nc_spm_08_grass7 grassdata \
   && rm nc_spm_08_grass7.zip
-wget https://zenodo.org/record/6967699/files/FOSS4G_2022_GRASS_GIS_workshop.zip
-unzip FOSS4G_2022_GRASS_GIS_workshop.zip
-rm FOSS4G_2022_GRASS_GIS_workshop.zip
